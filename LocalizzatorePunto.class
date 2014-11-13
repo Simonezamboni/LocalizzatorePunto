@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PROVA {
+public class LocalizzatorePunto {
 	
 	public static void main(String[] args) {
 		
